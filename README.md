@@ -1,4 +1,6 @@
-# REACT_DEVELOPER_PORTFOLIO___AGUSTIN_MARI
+# PORTFOLIO
+AGUSTIN_MARI___REACT_DEVELOPER
+
 
 __ ADMMINITY __
 
@@ -19,5 +21,4 @@ https://hubby.now.sh
 
 
 
-__ KINGCROWN CLOTHING ECOMMERCE __
-                                                                                                                               Full stack web development of KINGCROWN clothing ecommerce,  using React, Redux, Firebase storage and database, Stripe payments, NodeJs Server, git version control and npm.                                                                                                                                                                                                       https://kingcrown.herokuapp.com
+__ KINGCROWN CLOTHING ECOMMERCE __Full stack web development of KINGCROWN clothing ecommerce,  using React, Redux, Firebase storage and database, Stripe payments, NodeJs Server, git version control and npm.                                                                                                                                                                                                       https://kingcrown.herokuapp.com
