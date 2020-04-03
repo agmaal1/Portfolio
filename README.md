@@ -1,7 +1,7 @@
 # PORTFOLIO
 AGUSTIN_MARI___REACT_DEVELOPER
 
-. . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 __ ADMMINITY __
 
@@ -12,7 +12,7 @@ https://admminity.com
 https://beta.admminity.com  
 https://staging.admminity.com
 
-. . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 __ HUBBY COMMUNITY __
 
@@ -20,7 +20,7 @@ Full stack web development of HUBBY, a community real-time chat app, using React
 
 https://hubby.now.sh 
 
-. . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 __ KINGCROWN CLOTHING ECOMMERCE __
 
@@ -28,4 +28,4 @@ Full stack web development of KINGCROWN clothing ecommerce,  using React, Redux,
 
 https://kingcrown.herokuapp.com
 
-. . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
